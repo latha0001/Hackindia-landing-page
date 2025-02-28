@@ -49,7 +49,7 @@ Welcome to the **HackIndia 2025 Landing Page** repository! This is a Next.js-bas
 To deploy on Vercel:
 ```bash
 npm run build
-netlify deploy link :
+netlify deploy link : https://123dg45.netlify.app/
 ```
 
 ##  License
