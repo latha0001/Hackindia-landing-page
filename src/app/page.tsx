@@ -102,7 +102,7 @@ export default function HackIndiaLandingPage() {
           </h1>
 
           {/* Subtitle */}
-          <h2 className="text-white text-xl md:text-2xl mb-8">India's Biggest Web3 & AI Hackathon</h2>
+          <h2 className="text-white text-xl md:text-2xl mb-8">India Biggest Web3 & AI Hackathon</h2>
           {/* Date Section */}
           <div className="flex items-center justify-center w-[377px] h-[52px] bg-gradient-to-r from-[#6A1799] to-[#230833] border border-[rgba(217,217,217,0.3)] rounded-[10px] text-white font-bold text-[22px] tracking-[0.03em]">
             February 28 - September 28
