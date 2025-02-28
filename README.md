@@ -24,7 +24,7 @@ Welcome to the **HackIndia 2025 Landing Page** repository! This is a Next.js-bas
 ├── README.md               # Project documentation
 ```
 
-## 🛠 Installation
+##  Installation
 ### Prerequisites
 - Node.js (>= 16.0.0)
 - npm 
